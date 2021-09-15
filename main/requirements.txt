@@ -1,0 +1,16 @@
+ckip-transformers
+coverage
+cryptography
+firebase-admin
+Flask
+flask-apispec
+flask-caching
+flask-restful
+flask-testing
+gdown
+gunicorn
+marshmallow
+numpy
+pandas
+sklearn
+werkzeug

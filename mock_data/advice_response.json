@@ -1,0 +1,1534 @@
+{
+  "data": {
+    "all": {
+      "content_length": 2257,
+      "description_length": 58,
+      "duration_days": 50,
+      "goal": 100000,
+      "keywords": [
+        {
+          "document_frequency": 401,
+          "token": "計畫"
+        },
+        {
+          "document_frequency": 268,
+          "token": "台灣"
+        },
+        {
+          "document_frequency": 164,
+          "token": "生活"
+        },
+        {
+          "document_frequency": 145,
+          "token": "募資"
+        },
+        {
+          "document_frequency": 137,
+          "token": "設計"
+        },
+        {
+          "document_frequency": 134,
+          "token": "第一"
+        },
+        {
+          "document_frequency": 129,
+          "token": "世界"
+        },
+        {
+          "document_frequency": 110,
+          "token": "環保"
+        },
+        {
+          "document_frequency": 85,
+          "token": "桌遊"
+        },
+        {
+          "document_frequency": 83,
+          "token": "全球"
+        },
+        {
+          "document_frequency": 80,
+          "token": "一起"
+        },
+        {
+          "document_frequency": 78,
+          "token": "遊戲"
+        },
+        {
+          "document_frequency": 75,
+          "token": "無線"
+        },
+        {
+          "document_frequency": 75,
+          "token": "體驗"
+        },
+        {
+          "document_frequency": 72,
+          "token": "打造"
+        },
+        {
+          "document_frequency": 70,
+          "token": "輕鬆"
+        },
+        {
+          "document_frequency": 70,
+          "token": "我們"
+        },
+        {
+          "document_frequency": 69,
+          "token": "智慧"
+        },
+        {
+          "document_frequency": 65,
+          "token": "收納"
+        },
+        {
+          "document_frequency": 65,
+          "token": "計劃"
+        }
+      ],
+      "success_rate": 0.7454147276211334,
+      "total_cnt": 3653
+    },
+    "出版": {
+      "content_length": 2116,
+      "description_length": 54,
+      "duration_days": 46,
+      "goal": 100000,
+      "keywords": [
+        {
+          "document_frequency": 43,
+          "token": "計畫"
+        },
+        {
+          "document_frequency": 36,
+          "token": "出版"
+        },
+        {
+          "document_frequency": 26,
+          "token": "台灣"
+        },
+        {
+          "document_frequency": 17,
+          "token": "繪本"
+        },
+        {
+          "document_frequency": 16,
+          "token": "募資"
+        },
+        {
+          "document_frequency": 11,
+          "token": "第一"
+        },
+        {
+          "document_frequency": 9,
+          "token": "我們"
+        },
+        {
+          "document_frequency": 9,
+          "token": "生活"
+        },
+        {
+          "document_frequency": 8,
+          "token": "文化"
+        },
+        {
+          "document_frequency": 8,
+          "token": "日曆"
+        },
+        {
+          "document_frequency": 8,
+          "token": "月曆"
+        },
+        {
+          "document_frequency": 8,
+          "token": "桌曆"
+        },
+        {
+          "document_frequency": 8,
+          "token": "創作"
+        },
+        {
+          "document_frequency": 7,
+          "token": "故事"
+        },
+        {
+          "document_frequency": 7,
+          "token": "計劃"
+        },
+        {
+          "document_frequency": 7,
+          "token": "世界"
+        },
+        {
+          "document_frequency": 7,
+          "token": "雜誌"
+        },
+        {
+          "document_frequency": 6,
+          "token": "漫畫"
+        },
+        {
+          "document_frequency": 5,
+          "token": "臺灣"
+        },
+        {
+          "document_frequency": 5,
+          "token": "刊物"
+        }
+      ],
+      "success_rate": 0.7536231884057971,
+      "total_cnt": 207
+    },
+    "地方創生": {
+      "content_length": 2442,
+      "description_length": 61,
+      "duration_days": 49,
+      "goal": 100000,
+      "keywords": [
+        {
+          "document_frequency": 17,
+          "token": "台灣"
+        },
+        {
+          "document_frequency": 14,
+          "token": "計畫"
+        },
+        {
+          "document_frequency": 6,
+          "token": "一起"
+        },
+        {
+          "document_frequency": 5,
+          "token": "生活"
+        },
+        {
+          "document_frequency": 5,
+          "token": "旅行"
+        },
+        {
+          "document_frequency": 5,
+          "token": "在地"
+        },
+        {
+          "document_frequency": 5,
+          "token": "計劃"
+        },
+        {
+          "document_frequency": 5,
+          "token": "我們"
+        },
+        {
+          "document_frequency": 4,
+          "token": "臺灣"
+        },
+        {
+          "document_frequency": 4,
+          "token": "募資"
+        },
+        {
+          "document_frequency": 4,
+          "token": "體驗"
+        },
+        {
+          "document_frequency": 4,
+          "token": "支持"
+        },
+        {
+          "document_frequency": 4,
+          "token": "第一"
+        },
+        {
+          "document_frequency": 4,
+          "token": "環保"
+        },
+        {
+          "document_frequency": 4,
+          "token": "小農"
+        },
+        {
+          "document_frequency": 3,
+          "token": "傳統"
+        },
+        {
+          "document_frequency": 3,
+          "token": "回家"
+        },
+        {
+          "document_frequency": 3,
+          "token": "搶救"
+        },
+        {
+          "document_frequency": 3,
+          "token": "部落"
+        },
+        {
+          "document_frequency": 3,
+          "token": "大學"
+        }
+      ],
+      "success_rate": 0.6914893617021277,
+      "total_cnt": 94
+    },
+    "插畫漫畫": {
+      "content_length": 1843,
+      "description_length": 44,
+      "duration_days": 51,
+      "goal": 60000,
+      "keywords": [
+        {
+          "document_frequency": 10,
+          "token": "計畫"
+        },
+        {
+          "document_frequency": 6,
+          "token": "插畫"
+        },
+        {
+          "document_frequency": 6,
+          "token": "繪本"
+        },
+        {
+          "document_frequency": 5,
+          "token": "故事"
+        },
+        {
+          "document_frequency": 4,
+          "token": "漫畫"
+        },
+        {
+          "document_frequency": 4,
+          "token": "出版"
+        },
+        {
+          "document_frequency": 3,
+          "token": "台灣"
+        },
+        {
+          "document_frequency": 3,
+          "token": "商品"
+        },
+        {
+          "document_frequency": 3,
+          "token": "創作"
+        },
+        {
+          "document_frequency": 3,
+          "token": "夢想"
+        },
+        {
+          "document_frequency": 3,
+          "token": "插畫展"
+        },
+        {
+          "document_frequency": 2,
+          "token": "海龜"
+        },
+        {
+          "document_frequency": 2,
+          "token": "公仔"
+        },
+        {
+          "document_frequency": 2,
+          "token": "記憶"
+        },
+        {
+          "document_frequency": 2,
+          "token": "原創"
+        },
+        {
+          "document_frequency": 2,
+          "token": "人生"
+        },
+        {
+          "document_frequency": 2,
+          "token": "籃球"
+        },
+        {
+          "document_frequency": 2,
+          "token": "生活"
+        },
+        {
+          "document_frequency": 2,
+          "token": "無用"
+        },
+        {
+          "document_frequency": 2,
+          "token": "世界"
+        }
+      ],
+      "success_rate": 0.6226415094339622,
+      "total_cnt": 53
+    },
+    "攝影": {
+      "content_length": 1946,
+      "description_length": 49,
+      "duration_days": 46,
+      "goal": 100000,
+      "keywords": [
+        {
+          "document_frequency": 14,
+          "token": "攝影"
+        },
+        {
+          "document_frequency": 9,
+          "token": "鏡頭"
+        },
+        {
+          "document_frequency": 9,
+          "token": "計畫"
+        },
+        {
+          "document_frequency": 4,
+          "token": "攝影集"
+        },
+        {
+          "document_frequency": 4,
+          "token": "變形"
+        },
+        {
+          "document_frequency": 3,
+          "token": "mm"
+        },
+        {
+          "document_frequency": 3,
+          "token": "募資"
+        },
+        {
+          "document_frequency": 3,
+          "token": "攝影展"
+        },
+        {
+          "document_frequency": 3,
+          "token": "拍攝"
+        },
+        {
+          "document_frequency": 3,
+          "token": "手機"
+        },
+        {
+          "document_frequency": 3,
+          "token": "相機"
+        },
+        {
+          "document_frequency": 3,
+          "token": "人像"
+        },
+        {
+          "document_frequency": 3,
+          "token": "美好"
+        },
+        {
+          "document_frequency": 3,
+          "token": "日常"
+        },
+        {
+          "document_frequency": 3,
+          "token": "電影"
+        },
+        {
+          "document_frequency": 2,
+          "token": "毛孩"
+        },
+        {
+          "document_frequency": 2,
+          "token": "視野"
+        },
+        {
+          "document_frequency": 2,
+          "token": "大學"
+        },
+        {
+          "document_frequency": 2,
+          "token": "shutter"
+        },
+        {
+          "document_frequency": 2,
+          "token": "特色"
+        }
+      ],
+      "success_rate": 0.7083333333333334,
+      "total_cnt": 48
+    },
+    "教育": {
+      "content_length": 2383,
+      "description_length": 64,
+      "duration_days": 51,
+      "goal": 100000,
+      "keywords": [
+        {
+          "document_frequency": 30,
+          "token": "計畫"
+        },
+        {
+          "document_frequency": 20,
+          "token": "教育"
+        },
+        {
+          "document_frequency": 18,
+          "token": "桌遊"
+        },
+        {
+          "document_frequency": 14,
+          "token": "孩子"
+        },
+        {
+          "document_frequency": 11,
+          "token": "募資"
+        },
+        {
+          "document_frequency": 10,
+          "token": "學習"
+        },
+        {
+          "document_frequency": 9,
+          "token": "台灣"
+        },
+        {
+          "document_frequency": 7,
+          "token": "繪本"
+        },
+        {
+          "document_frequency": 7,
+          "token": "線上"
+        },
+        {
+          "document_frequency": 6,
+          "token": "自己"
+        },
+        {
+          "document_frequency": 6,
+          "token": "積木"
+        },
+        {
+          "document_frequency": 6,
+          "token": "程式"
+        },
+        {
+          "document_frequency": 5,
+          "token": "課程"
+        },
+        {
+          "document_frequency": 5,
+          "token": "偏鄉"
+        },
+        {
+          "document_frequency": 5,
+          "token": "第一"
+        },
+        {
+          "document_frequency": 5,
+          "token": "玩具"
+        },
+        {
+          "document_frequency": 5,
+          "token": "兒童"
+        },
+        {
+          "document_frequency": 5,
+          "token": "英文"
+        },
+        {
+          "document_frequency": 5,
+          "token": "計劃"
+        },
+        {
+          "document_frequency": 4,
+          "token": "世界"
+        }
+      ],
+      "success_rate": 0.7410714285714286,
+      "total_cnt": 112
+    },
+    "時尚": {
+      "content_length": 2416,
+      "description_length": 61,
+      "duration_days": 51,
+      "goal": 100000,
+      "keywords": [
+        {
+          "document_frequency": 27,
+          "token": "時尚"
+        },
+        {
+          "document_frequency": 21,
+          "token": "台灣"
+        },
+        {
+          "document_frequency": 15,
+          "token": "計畫"
+        },
+        {
+          "document_frequency": 14,
+          "token": "機能"
+        },
+        {
+          "document_frequency": 13,
+          "token": "設計"
+        },
+        {
+          "document_frequency": 12,
+          "token": "世界"
+        },
+        {
+          "document_frequency": 12,
+          "token": "第一"
+        },
+        {
+          "document_frequency": 11,
+          "token": "收納"
+        },
+        {
+          "document_frequency": 11,
+          "token": "防水"
+        },
+        {
+          "document_frequency": 10,
+          "token": "背包"
+        },
+        {
+          "document_frequency": 10,
+          "token": "外套"
+        },
+        {
+          "document_frequency": 9,
+          "token": "經典"
+        },
+        {
+          "document_frequency": 8,
+          "token": "手工"
+        },
+        {
+          "document_frequency": 8,
+          "token": "保養"
+        },
+        {
+          "document_frequency": 7,
+          "token": "肌膚"
+        },
+        {
+          "document_frequency": 7,
+          "token": "防盜"
+        },
+        {
+          "document_frequency": 7,
+          "token": "完美"
+        },
+        {
+          "document_frequency": 7,
+          "token": "空間"
+        },
+        {
+          "document_frequency": 7,
+          "token": "口罩"
+        },
+        {
+          "document_frequency": 7,
+          "token": "藝術"
+        }
+      ],
+      "success_rate": 0.7429718875502008,
+      "total_cnt": 249
+    },
+    "社會": {
+      "content_length": 2534,
+      "description_length": 71,
+      "duration_days": 45,
+      "goal": 200000,
+      "keywords": [
+        {
+          "document_frequency": 91,
+          "token": "計畫"
+        },
+        {
+          "document_frequency": 18,
+          "token": "台灣"
+        },
+        {
+          "document_frequency": 16,
+          "token": "募資"
+        },
+        {
+          "document_frequency": 12,
+          "token": "服務"
+        },
+        {
+          "document_frequency": 12,
+          "token": "弱勢"
+        },
+        {
+          "document_frequency": 12,
+          "token": "世界"
+        },
+        {
+          "document_frequency": 11,
+          "token": "計劃"
+        },
+        {
+          "document_frequency": 11,
+          "token": "遊行"
+        },
+        {
+          "document_frequency": 10,
+          "token": "集資"
+        },
+        {
+          "document_frequency": 9,
+          "token": "偏鄉"
+        },
+        {
+          "document_frequency": 9,
+          "token": "一起"
+        },
+        {
+          "document_frequency": 9,
+          "token": "募集"
+        },
+        {
+          "document_frequency": 8,
+          "token": "公益"
+        },
+        {
+          "document_frequency": 8,
+          "token": "未來"
+        },
+        {
+          "document_frequency": 8,
+          "token": "平權"
+        },
+        {
+          "document_frequency": 7,
+          "token": "醫療"
+        },
+        {
+          "document_frequency": 7,
+          "token": "我們"
+        },
+        {
+          "document_frequency": 7,
+          "token": "守護"
+        },
+        {
+          "document_frequency": 7,
+          "token": "孩子"
+        },
+        {
+          "document_frequency": 7,
+          "token": "孩童"
+        }
+      ],
+      "success_rate": 0.753968253968254,
+      "total_cnt": 252
+    },
+    "科技": {
+      "content_length": 2104,
+      "description_length": 59,
+      "duration_days": 52,
+      "goal": 100000,
+      "keywords": [
+        {
+          "document_frequency": 68,
+          "token": "無線"
+        },
+        {
+          "document_frequency": 54,
+          "token": "智慧"
+        },
+        {
+          "document_frequency": 43,
+          "token": "全球"
+        },
+        {
+          "document_frequency": 40,
+          "token": "耳機"
+        },
+        {
+          "document_frequency": 39,
+          "token": "台灣"
+        },
+        {
+          "document_frequency": 34,
+          "token": "充電"
+        },
+        {
+          "document_frequency": 33,
+          "token": "空氣"
+        },
+        {
+          "document_frequency": 31,
+          "token": "第一"
+        },
+        {
+          "document_frequency": 31,
+          "token": "智能"
+        },
+        {
+          "document_frequency": 31,
+          "token": "生活"
+        },
+        {
+          "document_frequency": 30,
+          "token": "藍牙"
+        },
+        {
+          "document_frequency": 27,
+          "token": "首創"
+        },
+        {
+          "document_frequency": 25,
+          "token": "音響"
+        },
+        {
+          "document_frequency": 24,
+          "token": "手機"
+        },
+        {
+          "document_frequency": 24,
+          "token": "世界"
+        },
+        {
+          "document_frequency": 23,
+          "token": "設計"
+        },
+        {
+          "document_frequency": 21,
+          "token": "體驗"
+        },
+        {
+          "document_frequency": 21,
+          "token": "殺菌"
+        },
+        {
+          "document_frequency": 21,
+          "token": "安全"
+        },
+        {
+          "document_frequency": 21,
+          "token": "清淨機"
+        }
+      ],
+      "success_rate": 0.7590361445783133,
+      "total_cnt": 664
+    },
+    "空間": {
+      "content_length": 2738,
+      "description_length": 72,
+      "duration_days": 47,
+      "goal": 300000,
+      "keywords": [
+        {
+          "document_frequency": 8,
+          "token": "計畫"
+        },
+        {
+          "document_frequency": 3,
+          "token": "體驗"
+        },
+        {
+          "document_frequency": 3,
+          "token": "環境"
+        },
+        {
+          "document_frequency": 3,
+          "token": "計劃"
+        },
+        {
+          "document_frequency": 3,
+          "token": "空間"
+        },
+        {
+          "document_frequency": 2,
+          "token": "一起"
+        },
+        {
+          "document_frequency": 2,
+          "token": "募資"
+        },
+        {
+          "document_frequency": 2,
+          "token": "實驗室"
+        },
+        {
+          "document_frequency": 2,
+          "token": "町屋"
+        },
+        {
+          "document_frequency": 2,
+          "token": "藝術"
+        },
+        {
+          "document_frequency": 2,
+          "token": "創造"
+        },
+        {
+          "document_frequency": 2,
+          "token": "台灣"
+        },
+        {
+          "document_frequency": 2,
+          "token": "遊戲"
+        },
+        {
+          "document_frequency": 2,
+          "token": "職人"
+        },
+        {
+          "document_frequency": 1,
+          "token": "更多"
+        },
+        {
+          "document_frequency": 1,
+          "token": "移動"
+        },
+        {
+          "document_frequency": 1,
+          "token": "專業"
+        },
+        {
+          "document_frequency": 1,
+          "token": "神器"
+        },
+        {
+          "document_frequency": 1,
+          "token": "製造"
+        },
+        {
+          "document_frequency": 1,
+          "token": "diy"
+        }
+      ],
+      "success_rate": 0.4166666666666667,
+      "total_cnt": 24
+    },
+    "藝術": {
+      "content_length": 2313,
+      "description_length": 57,
+      "duration_days": 46,
+      "goal": 55000,
+      "keywords": [
+        {
+          "document_frequency": 13,
+          "token": "藝術"
+        },
+        {
+          "document_frequency": 13,
+          "token": "計畫"
+        },
+        {
+          "document_frequency": 7,
+          "token": "大學"
+        },
+        {
+          "document_frequency": 6,
+          "token": "創作"
+        },
+        {
+          "document_frequency": 6,
+          "token": "藝術節"
+        },
+        {
+          "document_frequency": 6,
+          "token": "募資"
+        },
+        {
+          "document_frequency": 5,
+          "token": "劇場"
+        },
+        {
+          "document_frequency": 4,
+          "token": "展覽"
+        },
+        {
+          "document_frequency": 4,
+          "token": "計劃"
+        },
+        {
+          "document_frequency": 4,
+          "token": "國際"
+        },
+        {
+          "document_frequency": 4,
+          "token": "畢業"
+        },
+        {
+          "document_frequency": 4,
+          "token": "台灣"
+        },
+        {
+          "document_frequency": 3,
+          "token": "不只"
+        },
+        {
+          "document_frequency": 3,
+          "token": "日常"
+        },
+        {
+          "document_frequency": 3,
+          "token": "藝術季"
+        },
+        {
+          "document_frequency": 3,
+          "token": "設計"
+        },
+        {
+          "document_frequency": 3,
+          "token": "作品"
+        },
+        {
+          "document_frequency": 3,
+          "token": "記憶"
+        },
+        {
+          "document_frequency": 3,
+          "token": "展演"
+        },
+        {
+          "document_frequency": 3,
+          "token": "演出"
+        }
+      ],
+      "success_rate": 0.6666666666666666,
+      "total_cnt": 75
+    },
+    "表演": {
+      "content_length": 2504,
+      "description_length": 65,
+      "duration_days": 41,
+      "goal": 80000,
+      "keywords": [
+        {
+          "document_frequency": 11,
+          "token": "計畫"
+        },
+        {
+          "document_frequency": 7,
+          "token": "我們"
+        },
+        {
+          "document_frequency": 7,
+          "token": "劇場"
+        },
+        {
+          "document_frequency": 6,
+          "token": "音樂劇"
+        },
+        {
+          "document_frequency": 5,
+          "token": "製作"
+        },
+        {
+          "document_frequency": 5,
+          "token": "世界"
+        },
+        {
+          "document_frequency": 5,
+          "token": "台灣"
+        },
+        {
+          "document_frequency": 4,
+          "token": "臺灣"
+        },
+        {
+          "document_frequency": 4,
+          "token": "演唱會"
+        },
+        {
+          "document_frequency": 4,
+          "token": "直播"
+        },
+        {
+          "document_frequency": 4,
+          "token": "公演"
+        },
+        {
+          "document_frequency": 3,
+          "token": "舞蹈"
+        },
+        {
+          "document_frequency": 3,
+          "token": "看見"
+        },
+        {
+          "document_frequency": 3,
+          "token": "互動"
+        },
+        {
+          "document_frequency": 3,
+          "token": "原創"
+        },
+        {
+          "document_frequency": 3,
+          "token": "大學"
+        },
+        {
+          "document_frequency": 3,
+          "token": "表演"
+        },
+        {
+          "document_frequency": 3,
+          "token": "專場"
+        },
+        {
+          "document_frequency": 3,
+          "token": "線上"
+        },
+        {
+          "document_frequency": 3,
+          "token": "音樂會"
+        }
+      ],
+      "success_rate": 0.7164179104477612,
+      "total_cnt": 67
+    },
+    "設計": {
+      "content_length": 2209,
+      "description_length": 56,
+      "duration_days": 55,
+      "goal": 100000,
+      "keywords": [
+        {
+          "document_frequency": 90,
+          "token": "生活"
+        },
+        {
+          "document_frequency": 79,
+          "token": "設計"
+        },
+        {
+          "document_frequency": 70,
+          "token": "環保"
+        },
+        {
+          "document_frequency": 59,
+          "token": "台灣"
+        },
+        {
+          "document_frequency": 48,
+          "token": "收納"
+        },
+        {
+          "document_frequency": 46,
+          "token": "第一"
+        },
+        {
+          "document_frequency": 40,
+          "token": "世界"
+        },
+        {
+          "document_frequency": 34,
+          "token": "背包"
+        },
+        {
+          "document_frequency": 34,
+          "token": "打造"
+        },
+        {
+          "document_frequency": 32,
+          "token": "輕鬆"
+        },
+        {
+          "document_frequency": 31,
+          "token": "時尚"
+        },
+        {
+          "document_frequency": 31,
+          "token": "計畫"
+        },
+        {
+          "document_frequency": 29,
+          "token": "機能"
+        },
+        {
+          "document_frequency": 28,
+          "token": "完美"
+        },
+        {
+          "document_frequency": 28,
+          "token": "吸管"
+        },
+        {
+          "document_frequency": 28,
+          "token": "多功能"
+        },
+        {
+          "document_frequency": 27,
+          "token": "系列"
+        },
+        {
+          "document_frequency": 26,
+          "token": "專屬"
+        },
+        {
+          "document_frequency": 26,
+          "token": "防水"
+        },
+        {
+          "document_frequency": 25,
+          "token": "咖啡"
+        }
+      ],
+      "success_rate": 0.762589928057554,
+      "total_cnt": 1251
+    },
+    "遊戲": {
+      "content_length": 3002,
+      "description_length": 52,
+      "duration_days": 49,
+      "goal": 100000,
+      "keywords": [
+        {
+          "document_frequency": 65,
+          "token": "遊戲"
+        },
+        {
+          "document_frequency": 61,
+          "token": "桌遊"
+        },
+        {
+          "document_frequency": 31,
+          "token": "台灣"
+        },
+        {
+          "document_frequency": 14,
+          "token": "體驗"
+        },
+        {
+          "document_frequency": 13,
+          "token": "一起"
+        },
+        {
+          "document_frequency": 10,
+          "token": "世界"
+        },
+        {
+          "document_frequency": 8,
+          "token": "冒險"
+        },
+        {
+          "document_frequency": 7,
+          "token": "第一"
+        },
+        {
+          "document_frequency": 6,
+          "token": "計畫"
+        },
+        {
+          "document_frequency": 6,
+          "token": "實境"
+        },
+        {
+          "document_frequency": 6,
+          "token": "文化"
+        },
+        {
+          "document_frequency": 6,
+          "token": "臺灣"
+        },
+        {
+          "document_frequency": 5,
+          "token": "我們"
+        },
+        {
+          "document_frequency": 5,
+          "token": "獨立"
+        },
+        {
+          "document_frequency": 5,
+          "token": "系列"
+        },
+        {
+          "document_frequency": 5,
+          "token": "歷史"
+        },
+        {
+          "document_frequency": 5,
+          "token": "設計"
+        },
+        {
+          "document_frequency": 5,
+          "token": "原創"
+        },
+        {
+          "document_frequency": 5,
+          "token": "募資"
+        },
+        {
+          "document_frequency": 5,
+          "token": "rpg"
+        }
+      ],
+      "success_rate": 0.7653061224489796,
+      "total_cnt": 196
+    },
+    "電影動畫": {
+      "content_length": 2337,
+      "description_length": 61,
+      "duration_days": 45,
+      "goal": 100000,
+      "keywords": [
+        {
+          "document_frequency": 73,
+          "token": "計畫"
+        },
+        {
+          "document_frequency": 36,
+          "token": "募資"
+        },
+        {
+          "document_frequency": 35,
+          "token": "製作"
+        },
+        {
+          "document_frequency": 27,
+          "token": "畢業"
+        },
+        {
+          "document_frequency": 23,
+          "token": "短片"
+        },
+        {
+          "document_frequency": 21,
+          "token": "集資"
+        },
+        {
+          "document_frequency": 19,
+          "token": "電影"
+        },
+        {
+          "document_frequency": 17,
+          "token": "大學"
+        },
+        {
+          "document_frequency": 16,
+          "token": "紀錄片"
+        },
+        {
+          "document_frequency": 15,
+          "token": "拍攝"
+        },
+        {
+          "document_frequency": 12,
+          "token": "計劃"
+        },
+        {
+          "document_frequency": 12,
+          "token": "上映"
+        },
+        {
+          "document_frequency": 8,
+          "token": "我們"
+        },
+        {
+          "document_frequency": 8,
+          "token": "台灣"
+        },
+        {
+          "document_frequency": 7,
+          "token": "學系"
+        },
+        {
+          "document_frequency": 7,
+          "token": "放映"
+        },
+        {
+          "document_frequency": 7,
+          "token": "傳播"
+        },
+        {
+          "document_frequency": 7,
+          "token": "後期"
+        },
+        {
+          "document_frequency": 6,
+          "token": "動畫"
+        },
+        {
+          "document_frequency": 6,
+          "token": "世新"
+        }
+      ],
+      "success_rate": 0.7304347826086957,
+      "total_cnt": 115
+    },
+    "音樂": {
+      "content_length": 2071,
+      "description_length": 62,
+      "duration_days": 45,
+      "goal": 80000,
+      "keywords": [
+        {
+          "document_frequency": 38,
+          "token": "計畫"
+        },
+        {
+          "document_frequency": 29,
+          "token": "募資"
+        },
+        {
+          "document_frequency": 23,
+          "token": "專輯"
+        },
+        {
+          "document_frequency": 12,
+          "token": "音樂"
+        },
+        {
+          "document_frequency": 7,
+          "token": "創作"
+        },
+        {
+          "document_frequency": 6,
+          "token": "集資"
+        },
+        {
+          "document_frequency": 6,
+          "token": "製作"
+        },
+        {
+          "document_frequency": 6,
+          "token": "mv"
+        },
+        {
+          "document_frequency": 6,
+          "token": "夢想"
+        },
+        {
+          "document_frequency": 5,
+          "token": "ep"
+        },
+        {
+          "document_frequency": 5,
+          "token": "演唱會"
+        },
+        {
+          "document_frequency": 5,
+          "token": "發行"
+        },
+        {
+          "document_frequency": 5,
+          "token": "音樂會"
+        },
+        {
+          "document_frequency": 5,
+          "token": "單曲"
+        },
+        {
+          "document_frequency": 5,
+          "token": "音樂節"
+        },
+        {
+          "document_frequency": 4,
+          "token": "大學"
+        },
+        {
+          "document_frequency": 4,
+          "token": "熱音"
+        },
+        {
+          "document_frequency": 4,
+          "token": "畢業"
+        },
+        {
+          "document_frequency": 3,
+          "token": "中女"
+        },
+        {
+          "document_frequency": 3,
+          "token": "世新"
+        }
+      ],
+      "success_rate": 0.6633663366336634,
+      "total_cnt": 101
+    },
+    "飲食": {
+      "content_length": 2007,
+      "description_length": 61,
+      "duration_days": 44,
+      "goal": 100000,
+      "keywords": [
+        {
+          "document_frequency": 22,
+          "token": "台灣"
+        },
+        {
+          "document_frequency": 16,
+          "token": "健康"
+        },
+        {
+          "document_frequency": 15,
+          "token": "咖啡"
+        },
+        {
+          "document_frequency": 11,
+          "token": "美味"
+        },
+        {
+          "document_frequency": 9,
+          "token": "限量"
+        },
+        {
+          "document_frequency": 8,
+          "token": "營養"
+        },
+        {
+          "document_frequency": 7,
+          "token": "高手"
+        },
+        {
+          "document_frequency": 7,
+          "token": "禮盒"
+        },
+        {
+          "document_frequency": 7,
+          "token": "在地"
+        },
+        {
+          "document_frequency": 7,
+          "token": "栽培"
+        },
+        {
+          "document_frequency": 7,
+          "token": "環保"
+        },
+        {
+          "document_frequency": 7,
+          "token": "天然"
+        },
+        {
+          "document_frequency": 6,
+          "token": "計畫"
+        },
+        {
+          "document_frequency": 6,
+          "token": "有機"
+        },
+        {
+          "document_frequency": 6,
+          "token": "生活"
+        },
+        {
+          "document_frequency": 5,
+          "token": "高蛋白"
+        },
+        {
+          "document_frequency": 5,
+          "token": "自己"
+        },
+        {
+          "document_frequency": 5,
+          "token": "供應"
+        },
+        {
+          "document_frequency": 5,
+          "token": "一起"
+        },
+        {
+          "document_frequency": 5,
+          "token": "蛋白"
+        }
+      ],
+      "success_rate": 0.7586206896551724,
+      "total_cnt": 145
+    }
+  }
+}

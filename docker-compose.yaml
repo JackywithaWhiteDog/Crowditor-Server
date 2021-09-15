@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  main:
+    build:
+      context: ./main
+      dockerfile: Dockerfile
+    image: crowditor_main:latest
+    env_file: ./main/setting.env
+    environment: 
+      - MODE
+    ports:
+      - 5000:5000

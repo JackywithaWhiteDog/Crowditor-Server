@@ -1,0 +1,16 @@
+# Editor
+.vscode/
+
+# Coverage test
+.coverage
+htmlcov/
+
+# Cache
+**/__pycache__/
+
+# Logs
+*.logs
+
+# data
+main/app/data/
+*.gz

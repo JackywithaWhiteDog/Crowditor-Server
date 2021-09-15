@@ -1,0 +1,1105 @@
+{
+  "categories": {
+    "domain": {
+      "most": {
+        "name": "科技",
+        "rate": 0.7647058823529411
+      },
+      "same_rate": 0.7647058823529411
+    },
+    "type": {
+      "most": {
+        "name": "群眾集資",
+        "rate": 0.6470588235294118
+      },
+      "same_rate": 0.6470588235294118
+    }
+  },
+  "greater_than": 0.3320558445113605,
+  "metadata": {
+    "content_length": {
+      "box_25": 2178,
+      "box_50": 2591,
+      "box_75": 3287,
+      "box_max": 6150,
+      "box_min": 402,
+      "failure_median": 2397.5,
+      "project_value": 3075,
+      "success_greater": 4,
+      "success_less": 9,
+      "success_median": 2591
+    },
+    "description_length": {
+      "box_25": 45,
+      "box_50": 70,
+      "box_75": 87,
+      "box_max": 100,
+      "box_min": 15,
+      "failure_median": 53.5,
+      "project_value": 52,
+      "success_greater": 9,
+      "success_less": 4,
+      "success_median": 76
+    },
+    "duration_days": {
+      "box_25": 41,
+      "box_50": 60,
+      "box_75": 72,
+      "box_max": 106,
+      "box_min": 21,
+      "failure_median": 52,
+      "project_value": 31,
+      "success_greater": 13,
+      "success_less": 0,
+      "success_median": 62
+    },
+    "goal": {
+      "box_25": 60000,
+      "box_50": 100000,
+      "box_75": 100000,
+      "box_max": 2500000,
+      "box_min": 30000,
+      "failure_median": 100000,
+      "project_value": 80000,
+      "success_greater": 8,
+      "success_less": 4,
+      "success_median": 100000
+    },
+    "max_set_prices": {
+      "box_25": 5180,
+      "box_50": 9360,
+      "box_75": 11990,
+      "box_max": 38900,
+      "box_min": 1100,
+      "failure_median": 6676,
+      "project_value": 9999,
+      "success_greater": 7,
+      "success_less": 6,
+      "success_median": 11089
+    },
+    "min_set_prices": {
+      "box_25": 150,
+      "box_50": 579,
+      "box_75": 980,
+      "box_max": 7400,
+      "box_min": 99,
+      "failure_median": 645,
+      "project_value": 150,
+      "success_greater": 9,
+      "success_less": 3,
+      "success_median": 579
+    }
+  },
+  "peer_cnt": 17,
+  "peer_success_cnt": 13,
+  "peers": [
+    {
+      "cos": 0.41531114458652046,
+      "domain": "設計",
+      "link": "https://www.zeczec.com/projects/tracpoint",
+      "success": true,
+      "title": "【 TRACPOINT 】全球首創！實體+虛擬 二合一滑鼠簡報筆，滿足工作、會議與教學的所有應用！",
+      "type": "預購式專案"
+    },
+    {
+      "cos": 0.14487845486784734,
+      "domain": "科技",
+      "link": "https://www.zeczec.com/projects/m618db",
+      "success": true,
+      "title": "DELUX M618DB 垂直護腕光學滑鼠 | 擺脫滑鼠手 | 有效緩解肌肉疲勞",
+      "type": "預購式專案"
+    },
+    {
+      "cos": 0.1387995977817668,
+      "domain": "科技",
+      "link": "https://www.zeczec.com/projects/obsbot-tiny-ai",
+      "success": true,
+      "title": "【 OBSBOT Tiny 】走到哪拍到哪，你的第一台內建AI機器學習的網路攝影機",
+      "type": "群眾集資"
+    },
+    {
+      "cos": 0.13569319165540208,
+      "domain": "科技",
+      "link": "https://www.zeczec.com/projects/racemouse",
+      "success": true,
+      "title": "【 RaceMouse｜三合一迷你智慧滑鼠 】迷你滑鼠 / 觸控板 / 簡報筆的功能大集合，行動辦公的最佳解法！",
+      "type": "群眾集資"
+    },
+    {
+      "cos": 0.12468914389345473,
+      "domain": "科技",
+      "link": "https://www.zeczec.com/projects/FreeMouse",
+      "success": false,
+      "title": "《自由形態滑鼠FreeMouse》：三種滑鼠一次滿足，將自由的精神應用在滑鼠上。",
+      "type": "群眾集資"
+    },
+    {
+      "cos": 0.10643433879217729,
+      "domain": "科技",
+      "link": "https://www.zeczec.com/projects/inCharge6",
+      "success": true,
+      "title": " inCharge 6 ｜世界最小的軍規級六合一傳輸線",
+      "type": "預購式專案"
+    },
+    {
+      "cos": 0.10318740037118851,
+      "domain": "設計",
+      "link": "https://www.zeczec.com/projects/sleephere",
+      "success": true,
+      "title": "Sleep Here露營枕 | 露營也可以超好眠",
+      "type": "群眾集資"
+    },
+    {
+      "cos": 0.08892100010720051,
+      "domain": "設計",
+      "link": "https://www.zeczec.com/projects/tau",
+      "success": true,
+      "title": "【 瑞士｜TAU 】 世界最小的三合一磁吸式鑰匙圈行動電源",
+      "type": "群眾集資"
+    },
+    {
+      "cos": 0.08674457441026977,
+      "domain": "科技",
+      "link": "https://www.zeczec.com/projects/airloop",
+      "success": true,
+      "title": "AirLoop｜全球首創！三合一磁吸式秒轉耳機！",
+      "type": "群眾集資"
+    },
+    {
+      "cos": 0.0848248907284483,
+      "domain": "科技",
+      "link": "https://www.zeczec.com/projects/ieconano",
+      "success": false,
+      "title": "全球首賣 | 好清潔可換裝無線靜音滑鼠 | 後疫情時代滑鼠清潔超重要 | 早鳥優惠預購中 ！",
+      "type": "群眾集資"
+    },
+    {
+      "cos": 0.08233360725327796,
+      "domain": "科技",
+      "link": "https://www.zeczec.com/projects/delux-m629",
+      "success": true,
+      "title": "DELUX M629 電競滑鼠｜創新可拆卸自定義手托，不管辦公還是玩遊戲、大手或小手，各種場合都能夠適用",
+      "type": "預購式專案"
+    },
+    {
+      "cos": 0.06792520218300291,
+      "domain": "科技",
+      "link": "https://www.zeczec.com/projects/mad-gaze-watch",
+      "success": true,
+      "title": "MAD Gaze Watch｜全球首創骨傳導智慧手錶，延伸錶面開拓你的想像邊界",
+      "type": "群眾集資"
+    },
+    {
+      "cos": 0.061695095018180796,
+      "domain": "時尚",
+      "link": "https://www.zeczec.com/projects/archivian-no-231-001",
+      "success": true,
+      "title": "ARCHIVIAN - No.231-001 - 全藍寶石立體弧面玻璃錶面腕錶",
+      "type": "群眾集資"
+    },
+    {
+      "cos": 0.057410587490585,
+      "domain": "科技",
+      "link": "https://www.zeczec.com/projects/BFRiEND",
+      "success": true,
+      "title": "B.FRiEND 玫瑰粉鋁合金鍵盤｜無與倫比的美與手感",
+      "type": "群眾集資"
+    },
+    {
+      "cos": 0.052274616484959506,
+      "domain": "科技",
+      "link": "https://www.zeczec.com/projects/iRocksK89M",
+      "success": true,
+      "title": "【 iRocks | 可分離式人體工學機械鍵盤】解放雙手自由的舒適鍵盤，電腦使用者福音",
+      "type": "預購式專案"
+    },
+    {
+      "cos": 0.050817129473480084,
+      "domain": "科技",
+      "link": "https://www.zeczec.com/projects/yfdarclighter",
+      "success": false,
+      "title": "秒速點香機｜安全．迅速．美觀．環保．節能",
+      "type": "預購式專案"
+    },
+    {
+      "cos": 0.050514339444807044,
+      "domain": "科技",
+      "link": "https://www.zeczec.com/projects/eclipse",
+      "success": false,
+      "title": "【ECLIPSE｜無線快充小夜燈｜溫馨陪伴您 365 個夜晚】智能觸控調光，防眩光小夜燈、無線快充一次到位！",
+      "type": "群眾集資"
+    }
+  ],
+  "recommend_tokens": {
+    "content": [
+      {
+        "df": 15,
+        "peer_link": [
+          "https://www.zeczec.com/projects/tracpoint",
+          "https://www.zeczec.com/projects/m618db",
+          "https://www.zeczec.com/projects/obsbot-tiny-ai",
+          "https://www.zeczec.com/projects/racemouse",
+          "https://www.zeczec.com/projects/FreeMouse",
+          "https://www.zeczec.com/projects/inCharge6",
+          "https://www.zeczec.com/projects/sleephere",
+          "https://www.zeczec.com/projects/tau",
+          "https://www.zeczec.com/projects/airloop",
+          "https://www.zeczec.com/projects/delux-m629",
+          "https://www.zeczec.com/projects/mad-gaze-watch",
+          "https://www.zeczec.com/projects/BFRiEND",
+          "https://www.zeczec.com/projects/iRocksK89M",
+          "https://www.zeczec.com/projects/yfdarclighter",
+          "https://www.zeczec.com/projects/eclipse"
+        ],
+        "peer_title": [
+          "【 TRACPOINT 】全球首創！實體+虛擬 二合一滑鼠簡報筆，滿足工作、會議與教學的所有應用！",
+          "DELUX M618DB 垂直護腕光學滑鼠 | 擺脫滑鼠手 | 有效緩解肌肉疲勞",
+          "【 OBSBOT Tiny 】走到哪拍到哪，你的第一台內建AI機器學習的網路攝影機",
+          "【 RaceMouse｜三合一迷你智慧滑鼠 】迷你滑鼠 / 觸控板 / 簡報筆的功能大集合，行動辦公的最佳解法！",
+          "《自由形態滑鼠FreeMouse》：三種滑鼠一次滿足，將自由的精神應用在滑鼠上。",
+          " inCharge 6 ｜世界最小的軍規級六合一傳輸線",
+          "Sleep Here露營枕 | 露營也可以超好眠",
+          "【 瑞士｜TAU 】 世界最小的三合一磁吸式鑰匙圈行動電源",
+          "AirLoop｜全球首創！三合一磁吸式秒轉耳機！",
+          "DELUX M629 電競滑鼠｜創新可拆卸自定義手托，不管辦公還是玩遊戲、大手或小手，各種場合都能夠適用",
+          "MAD Gaze Watch｜全球首創骨傳導智慧手錶，延伸錶面開拓你的想像邊界",
+          "B.FRiEND 玫瑰粉鋁合金鍵盤｜無與倫比的美與手感",
+          "【 iRocks | 可分離式人體工學機械鍵盤】解放雙手自由的舒適鍵盤，電腦使用者福音",
+          "秒速點香機｜安全．迅速．美觀．環保．節能",
+          "【ECLIPSE｜無線快充小夜燈｜溫馨陪伴您 365 個夜晚】智能觸控調光，防眩光小夜燈、無線快充一次到位！"
+        ],
+        "pvals": 8.617521643477273e-17,
+        "token": "問答"
+      },
+      {
+        "df": 15,
+        "peer_link": [
+          "https://www.zeczec.com/projects/tracpoint",
+          "https://www.zeczec.com/projects/m618db",
+          "https://www.zeczec.com/projects/obsbot-tiny-ai",
+          "https://www.zeczec.com/projects/racemouse",
+          "https://www.zeczec.com/projects/FreeMouse",
+          "https://www.zeczec.com/projects/inCharge6",
+          "https://www.zeczec.com/projects/sleephere",
+          "https://www.zeczec.com/projects/tau",
+          "https://www.zeczec.com/projects/airloop",
+          "https://www.zeczec.com/projects/delux-m629",
+          "https://www.zeczec.com/projects/mad-gaze-watch",
+          "https://www.zeczec.com/projects/BFRiEND",
+          "https://www.zeczec.com/projects/iRocksK89M",
+          "https://www.zeczec.com/projects/yfdarclighter",
+          "https://www.zeczec.com/projects/eclipse"
+        ],
+        "peer_title": [
+          "【 TRACPOINT 】全球首創！實體+虛擬 二合一滑鼠簡報筆，滿足工作、會議與教學的所有應用！",
+          "DELUX M618DB 垂直護腕光學滑鼠 | 擺脫滑鼠手 | 有效緩解肌肉疲勞",
+          "【 OBSBOT Tiny 】走到哪拍到哪，你的第一台內建AI機器學習的網路攝影機",
+          "【 RaceMouse｜三合一迷你智慧滑鼠 】迷你滑鼠 / 觸控板 / 簡報筆的功能大集合，行動辦公的最佳解法！",
+          "《自由形態滑鼠FreeMouse》：三種滑鼠一次滿足，將自由的精神應用在滑鼠上。",
+          " inCharge 6 ｜世界最小的軍規級六合一傳輸線",
+          "Sleep Here露營枕 | 露營也可以超好眠",
+          "【 瑞士｜TAU 】 世界最小的三合一磁吸式鑰匙圈行動電源",
+          "AirLoop｜全球首創！三合一磁吸式秒轉耳機！",
+          "DELUX M629 電競滑鼠｜創新可拆卸自定義手托，不管辦公還是玩遊戲、大手或小手，各種場合都能夠適用",
+          "MAD Gaze Watch｜全球首創骨傳導智慧手錶，延伸錶面開拓你的想像邊界",
+          "B.FRiEND 玫瑰粉鋁合金鍵盤｜無與倫比的美與手感",
+          "【 iRocks | 可分離式人體工學機械鍵盤】解放雙手自由的舒適鍵盤，電腦使用者福音",
+          "秒速點香機｜安全．迅速．美觀．環保．節能",
+          "【ECLIPSE｜無線快充小夜燈｜溫馨陪伴您 365 個夜晚】智能觸控調光，防眩光小夜燈、無線快充一次到位！"
+        ],
+        "pvals": 3.3466731730402626e-16,
+        "token": "疑問"
+      },
+      {
+        "df": 15,
+        "peer_link": [
+          "https://www.zeczec.com/projects/tracpoint",
+          "https://www.zeczec.com/projects/m618db",
+          "https://www.zeczec.com/projects/obsbot-tiny-ai",
+          "https://www.zeczec.com/projects/racemouse",
+          "https://www.zeczec.com/projects/FreeMouse",
+          "https://www.zeczec.com/projects/inCharge6",
+          "https://www.zeczec.com/projects/sleephere",
+          "https://www.zeczec.com/projects/tau",
+          "https://www.zeczec.com/projects/airloop",
+          "https://www.zeczec.com/projects/delux-m629",
+          "https://www.zeczec.com/projects/mad-gaze-watch",
+          "https://www.zeczec.com/projects/BFRiEND",
+          "https://www.zeczec.com/projects/iRocksK89M",
+          "https://www.zeczec.com/projects/yfdarclighter",
+          "https://www.zeczec.com/projects/eclipse"
+        ],
+        "peer_title": [
+          "【 TRACPOINT 】全球首創！實體+虛擬 二合一滑鼠簡報筆，滿足工作、會議與教學的所有應用！",
+          "DELUX M618DB 垂直護腕光學滑鼠 | 擺脫滑鼠手 | 有效緩解肌肉疲勞",
+          "【 OBSBOT Tiny 】走到哪拍到哪，你的第一台內建AI機器學習的網路攝影機",
+          "【 RaceMouse｜三合一迷你智慧滑鼠 】迷你滑鼠 / 觸控板 / 簡報筆的功能大集合，行動辦公的最佳解法！",
+          "《自由形態滑鼠FreeMouse》：三種滑鼠一次滿足，將自由的精神應用在滑鼠上。",
+          " inCharge 6 ｜世界最小的軍規級六合一傳輸線",
+          "Sleep Here露營枕 | 露營也可以超好眠",
+          "【 瑞士｜TAU 】 世界最小的三合一磁吸式鑰匙圈行動電源",
+          "AirLoop｜全球首創！三合一磁吸式秒轉耳機！",
+          "DELUX M629 電競滑鼠｜創新可拆卸自定義手托，不管辦公還是玩遊戲、大手或小手，各種場合都能夠適用",
+          "MAD Gaze Watch｜全球首創骨傳導智慧手錶，延伸錶面開拓你的想像邊界",
+          "B.FRiEND 玫瑰粉鋁合金鍵盤｜無與倫比的美與手感",
+          "【 iRocks | 可分離式人體工學機械鍵盤】解放雙手自由的舒適鍵盤，電腦使用者福音",
+          "秒速點香機｜安全．迅速．美觀．環保．節能",
+          "【ECLIPSE｜無線快充小夜燈｜溫馨陪伴您 365 個夜晚】智能觸控調光，防眩光小夜燈、無線快充一次到位！"
+        ],
+        "pvals": 2.8853955489842393e-15,
+        "token": "常見"
+      },
+      {
+        "df": 8,
+        "peer_link": [
+          "https://www.zeczec.com/projects/tracpoint",
+          "https://www.zeczec.com/projects/obsbot-tiny-ai",
+          "https://www.zeczec.com/projects/FreeMouse",
+          "https://www.zeczec.com/projects/inCharge6",
+          "https://www.zeczec.com/projects/tau",
+          "https://www.zeczec.com/projects/airloop",
+          "https://www.zeczec.com/projects/ieconano",
+          "https://www.zeczec.com/projects/mad-gaze-watch"
+        ],
+        "peer_title": [
+          "【 TRACPOINT 】全球首創！實體+虛擬 二合一滑鼠簡報筆，滿足工作、會議與教學的所有應用！",
+          "【 OBSBOT Tiny 】走到哪拍到哪，你的第一台內建AI機器學習的網路攝影機",
+          "《自由形態滑鼠FreeMouse》：三種滑鼠一次滿足，將自由的精神應用在滑鼠上。",
+          " inCharge 6 ｜世界最小的軍規級六合一傳輸線",
+          "【 瑞士｜TAU 】 世界最小的三合一磁吸式鑰匙圈行動電源",
+          "AirLoop｜全球首創！三合一磁吸式秒轉耳機！",
+          "全球首賣 | 好清潔可換裝無線靜音滑鼠 | 後疫情時代滑鼠清潔超重要 | 早鳥優惠預購中 ！",
+          "MAD Gaze Watch｜全球首創骨傳導智慧手錶，延伸錶面開拓你的想像邊界"
+        ],
+        "pvals": 1.0781346469889703e-14,
+        "token": "開箱"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/racemouse",
+          "https://www.zeczec.com/projects/mad-gaze-watch"
+        ],
+        "peer_title": [
+          "【 RaceMouse｜三合一迷你智慧滑鼠 】迷你滑鼠 / 觸控板 / 簡報筆的功能大集合，行動辦公的最佳解法！",
+          "MAD Gaze Watch｜全球首創骨傳導智慧手錶，延伸錶面開拓你的想像邊界"
+        ],
+        "pvals": 1.1934425203265193e-12,
+        "token": "解鎖"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/mad-gaze-watch",
+          "https://www.zeczec.com/projects/BFRiEND"
+        ],
+        "peer_title": [
+          "MAD Gaze Watch｜全球首創骨傳導智慧手錶，延伸錶面開拓你的想像邊界",
+          "B.FRiEND 玫瑰粉鋁合金鍵盤｜無與倫比的美與手感"
+        ],
+        "pvals": 1.7630878454121115e-12,
+        "token": "加購"
+      },
+      {
+        "df": 6,
+        "peer_link": [
+          "https://www.zeczec.com/projects/racemouse",
+          "https://www.zeczec.com/projects/FreeMouse",
+          "https://www.zeczec.com/projects/ieconano",
+          "https://www.zeczec.com/projects/delux-m629",
+          "https://www.zeczec.com/projects/mad-gaze-watch",
+          "https://www.zeczec.com/projects/yfdarclighter"
+        ],
+        "peer_title": [
+          "【 RaceMouse｜三合一迷你智慧滑鼠 】迷你滑鼠 / 觸控板 / 簡報筆的功能大集合，行動辦公的最佳解法！",
+          "《自由形態滑鼠FreeMouse》：三種滑鼠一次滿足，將自由的精神應用在滑鼠上。",
+          "全球首賣 | 好清潔可換裝無線靜音滑鼠 | 後疫情時代滑鼠清潔超重要 | 早鳥優惠預購中 ！",
+          "DELUX M629 電競滑鼠｜創新可拆卸自定義手托，不管辦公還是玩遊戲、大手或小手，各種場合都能夠適用",
+          "MAD Gaze Watch｜全球首創骨傳導智慧手錶，延伸錶面開拓你的想像邊界",
+          "秒速點香機｜安全．迅速．美觀．環保．節能"
+        ],
+        "pvals": 1.3073057660365915e-9,
+        "token": "更新"
+      },
+      {
+        "df": 4,
+        "peer_link": [
+          "https://www.zeczec.com/projects/FreeMouse",
+          "https://www.zeczec.com/projects/airloop",
+          "https://www.zeczec.com/projects/mad-gaze-watch",
+          "https://www.zeczec.com/projects/BFRiEND"
+        ],
+        "peer_title": [
+          "《自由形態滑鼠FreeMouse》：三種滑鼠一次滿足，將自由的精神應用在滑鼠上。",
+          "AirLoop｜全球首創！三合一磁吸式秒轉耳機！",
+          "MAD Gaze Watch｜全球首創骨傳導智慧手錶，延伸錶面開拓你的想像邊界",
+          "B.FRiEND 玫瑰粉鋁合金鍵盤｜無與倫比的美與手感"
+        ],
+        "pvals": 1.7577721703048853e-9,
+        "token": "超過"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/tracpoint",
+          "https://www.zeczec.com/projects/BFRiEND"
+        ],
+        "peer_title": [
+          "【 TRACPOINT 】全球首創！實體+虛擬 二合一滑鼠簡報筆，滿足工作、會議與教學的所有應用！",
+          "B.FRiEND 玫瑰粉鋁合金鍵盤｜無與倫比的美與手感"
+        ],
+        "pvals": 2.8177728403584665e-8,
+        "token": "問卷"
+      },
+      {
+        "df": 16,
+        "peer_link": [
+          "https://www.zeczec.com/projects/tracpoint",
+          "https://www.zeczec.com/projects/m618db",
+          "https://www.zeczec.com/projects/obsbot-tiny-ai",
+          "https://www.zeczec.com/projects/racemouse",
+          "https://www.zeczec.com/projects/FreeMouse",
+          "https://www.zeczec.com/projects/inCharge6",
+          "https://www.zeczec.com/projects/sleephere",
+          "https://www.zeczec.com/projects/tau",
+          "https://www.zeczec.com/projects/airloop",
+          "https://www.zeczec.com/projects/delux-m629",
+          "https://www.zeczec.com/projects/mad-gaze-watch",
+          "https://www.zeczec.com/projects/archivian-no-231-001",
+          "https://www.zeczec.com/projects/BFRiEND",
+          "https://www.zeczec.com/projects/iRocksK89M",
+          "https://www.zeczec.com/projects/yfdarclighter",
+          "https://www.zeczec.com/projects/eclipse"
+        ],
+        "peer_title": [
+          "【 TRACPOINT 】全球首創！實體+虛擬 二合一滑鼠簡報筆，滿足工作、會議與教學的所有應用！",
+          "DELUX M618DB 垂直護腕光學滑鼠 | 擺脫滑鼠手 | 有效緩解肌肉疲勞",
+          "【 OBSBOT Tiny 】走到哪拍到哪，你的第一台內建AI機器學習的網路攝影機",
+          "【 RaceMouse｜三合一迷你智慧滑鼠 】迷你滑鼠 / 觸控板 / 簡報筆的功能大集合，行動辦公的最佳解法！",
+          "《自由形態滑鼠FreeMouse》：三種滑鼠一次滿足，將自由的精神應用在滑鼠上。",
+          " inCharge 6 ｜世界最小的軍規級六合一傳輸線",
+          "Sleep Here露營枕 | 露營也可以超好眠",
+          "【 瑞士｜TAU 】 世界最小的三合一磁吸式鑰匙圈行動電源",
+          "AirLoop｜全球首創！三合一磁吸式秒轉耳機！",
+          "DELUX M629 電競滑鼠｜創新可拆卸自定義手托，不管辦公還是玩遊戲、大手或小手，各種場合都能夠適用",
+          "MAD Gaze Watch｜全球首創骨傳導智慧手錶，延伸錶面開拓你的想像邊界",
+          "ARCHIVIAN - No.231-001 - 全藍寶石立體弧面玻璃錶面腕錶",
+          "B.FRiEND 玫瑰粉鋁合金鍵盤｜無與倫比的美與手感",
+          "【 iRocks | 可分離式人體工學機械鍵盤】解放雙手自由的舒適鍵盤，電腦使用者福音",
+          "秒速點香機｜安全．迅速．美觀．環保．節能",
+          "【ECLIPSE｜無線快充小夜燈｜溫馨陪伴您 365 個夜晚】智能觸控調光，防眩光小夜燈、無線快充一次到位！"
+        ],
+        "pvals": 2.8210705330221183e-8,
+        "token": "其他"
+      },
+      {
+        "df": 4,
+        "peer_link": [
+          "https://www.zeczec.com/projects/obsbot-tiny-ai",
+          "https://www.zeczec.com/projects/inCharge6",
+          "https://www.zeczec.com/projects/tau",
+          "https://www.zeczec.com/projects/airloop"
+        ],
+        "peer_title": [
+          "【 OBSBOT Tiny 】走到哪拍到哪，你的第一台內建AI機器學習的網路攝影機",
+          " inCharge 6 ｜世界最小的軍規級六合一傳輸線",
+          "【 瑞士｜TAU 】 世界最小的三合一磁吸式鑰匙圈行動電源",
+          "AirLoop｜全球首創！三合一磁吸式秒轉耳機！"
+        ],
+        "pvals": 4.255231773485293e-8,
+        "token": "細節"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/obsbot-tiny-ai",
+          "https://www.zeczec.com/projects/archivian-no-231-001"
+        ],
+        "peer_title": [
+          "【 OBSBOT Tiny 】走到哪拍到哪，你的第一台內建AI機器學習的網路攝影機",
+          "ARCHIVIAN - No.231-001 - 全藍寶石立體弧面玻璃錶面腕錶"
+        ],
+        "pvals": 1.0449500712738826e-7,
+        "token": "俐落"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/BFRiEND",
+          "https://www.zeczec.com/projects/yfdarclighter"
+        ],
+        "peer_title": [
+          "B.FRiEND 玫瑰粉鋁合金鍵盤｜無與倫比的美與手感",
+          "秒速點香機｜安全．迅速．美觀．環保．節能"
+        ],
+        "pvals": 1.4560892998422287e-7,
+        "token": "升級"
+      },
+      {
+        "df": 3,
+        "peer_link": [
+          "https://www.zeczec.com/projects/racemouse",
+          "https://www.zeczec.com/projects/ieconano",
+          "https://www.zeczec.com/projects/delux-m629"
+        ],
+        "peer_title": [
+          "【 RaceMouse｜三合一迷你智慧滑鼠 】迷你滑鼠 / 觸控板 / 簡報筆的功能大集合，行動辦公的最佳解法！",
+          "全球首賣 | 好清潔可換裝無線靜音滑鼠 | 後疫情時代滑鼠清潔超重要 | 早鳥優惠預購中 ！",
+          "DELUX M629 電競滑鼠｜創新可拆卸自定義手托，不管辦公還是玩遊戲、大手或小手，各種場合都能夠適用"
+        ],
+        "pvals": 3.8348098783892295e-7,
+        "token": "規範"
+      },
+      {
+        "df": 10,
+        "peer_link": [
+          "https://www.zeczec.com/projects/m618db",
+          "https://www.zeczec.com/projects/obsbot-tiny-ai",
+          "https://www.zeczec.com/projects/racemouse",
+          "https://www.zeczec.com/projects/inCharge6",
+          "https://www.zeczec.com/projects/sleephere",
+          "https://www.zeczec.com/projects/tau",
+          "https://www.zeczec.com/projects/airloop",
+          "https://www.zeczec.com/projects/delux-m629",
+          "https://www.zeczec.com/projects/iRocksK89M",
+          "https://www.zeczec.com/projects/yfdarclighter"
+        ],
+        "peer_title": [
+          "DELUX M618DB 垂直護腕光學滑鼠 | 擺脫滑鼠手 | 有效緩解肌肉疲勞",
+          "【 OBSBOT Tiny 】走到哪拍到哪，你的第一台內建AI機器學習的網路攝影機",
+          "【 RaceMouse｜三合一迷你智慧滑鼠 】迷你滑鼠 / 觸控板 / 簡報筆的功能大集合，行動辦公的最佳解法！",
+          " inCharge 6 ｜世界最小的軍規級六合一傳輸線",
+          "Sleep Here露營枕 | 露營也可以超好眠",
+          "【 瑞士｜TAU 】 世界最小的三合一磁吸式鑰匙圈行動電源",
+          "AirLoop｜全球首創！三合一磁吸式秒轉耳機！",
+          "DELUX M629 電競滑鼠｜創新可拆卸自定義手托，不管辦公還是玩遊戲、大手或小手，各種場合都能夠適用",
+          "【 iRocks | 可分離式人體工學機械鍵盤】解放雙手自由的舒適鍵盤，電腦使用者福音",
+          "秒速點香機｜安全．迅速．美觀．環保．節能"
+        ],
+        "pvals": 4.263270718758385e-7,
+        "token": "請見"
+      },
+      {
+        "df": 3,
+        "peer_link": [
+          "https://www.zeczec.com/projects/tracpoint",
+          "https://www.zeczec.com/projects/mad-gaze-watch",
+          "https://www.zeczec.com/projects/eclipse"
+        ],
+        "peer_title": [
+          "【 TRACPOINT 】全球首創！實體+虛擬 二合一滑鼠簡報筆，滿足工作、會議與教學的所有應用！",
+          "MAD Gaze Watch｜全球首創骨傳導智慧手錶，延伸錶面開拓你的想像邊界",
+          "【ECLIPSE｜無線快充小夜燈｜溫馨陪伴您 365 個夜晚】智能觸控調光，防眩光小夜燈、無線快充一次到位！"
+        ],
+        "pvals": 4.851863891154233e-7,
+        "token": "獨家"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/delux-m629",
+          "https://www.zeczec.com/projects/iRocksK89M"
+        ],
+        "peer_title": [
+          "DELUX M629 電競滑鼠｜創新可拆卸自定義手托，不管辦公還是玩遊戲、大手或小手，各種場合都能夠適用",
+          "【 iRocks | 可分離式人體工學機械鍵盤】解放雙手自由的舒適鍵盤，電腦使用者福音"
+        ],
+        "pvals": 5.034021413441851e-7,
+        "token": "德國"
+      },
+      {
+        "df": 3,
+        "peer_link": [
+          "https://www.zeczec.com/projects/obsbot-tiny-ai",
+          "https://www.zeczec.com/projects/delux-m629",
+          "https://www.zeczec.com/projects/BFRiEND"
+        ],
+        "peer_title": [
+          "【 OBSBOT Tiny 】走到哪拍到哪，你的第一台內建AI機器學習的網路攝影機",
+          "DELUX M629 電競滑鼠｜創新可拆卸自定義手托，不管辦公還是玩遊戲、大手或小手，各種場合都能夠適用",
+          "B.FRiEND 玫瑰粉鋁合金鍵盤｜無與倫比的美與手感"
+        ],
+        "pvals": 6.028028031859489e-7,
+        "token": "好評"
+      },
+      {
+        "df": 4,
+        "peer_link": [
+          "https://www.zeczec.com/projects/obsbot-tiny-ai",
+          "https://www.zeczec.com/projects/ieconano",
+          "https://www.zeczec.com/projects/delux-m629",
+          "https://www.zeczec.com/projects/iRocksK89M"
+        ],
+        "peer_title": [
+          "【 OBSBOT Tiny 】走到哪拍到哪，你的第一台內建AI機器學習的網路攝影機",
+          "全球首賣 | 好清潔可換裝無線靜音滑鼠 | 後疫情時代滑鼠清潔超重要 | 早鳥優惠預購中 ！",
+          "DELUX M629 電競滑鼠｜創新可拆卸自定義手托，不管辦公還是玩遊戲、大手或小手，各種場合都能夠適用",
+          "【 iRocks | 可分離式人體工學機械鍵盤】解放雙手自由的舒適鍵盤，電腦使用者福音"
+        ],
+        "pvals": 7.610317063851234e-7,
+        "token": "穩定"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/inCharge6",
+          "https://www.zeczec.com/projects/delux-m629"
+        ],
+        "peer_title": [
+          " inCharge 6 ｜世界最小的軍規級六合一傳輸線",
+          "DELUX M629 電競滑鼠｜創新可拆卸自定義手托，不管辦公還是玩遊戲、大手或小手，各種場合都能夠適用"
+        ],
+        "pvals": 8.108406901805769e-7,
+        "token": "耐用"
+      }
+    ],
+    "description": [
+      {
+        "df": 5,
+        "peer_link": [
+          "https://www.zeczec.com/projects/sleephere",
+          "https://www.zeczec.com/projects/tau",
+          "https://www.zeczec.com/projects/airloop",
+          "https://www.zeczec.com/projects/BFRiEND",
+          "https://www.zeczec.com/projects/eclipse"
+        ],
+        "peer_title": [
+          "Sleep Here露營枕 | 露營也可以超好眠",
+          "【 瑞士｜TAU 】 世界最小的三合一磁吸式鑰匙圈行動電源",
+          "AirLoop｜全球首創！三合一磁吸式秒轉耳機！",
+          "B.FRiEND 玫瑰粉鋁合金鍵盤｜無與倫比的美與手感",
+          "【ECLIPSE｜無線快充小夜燈｜溫馨陪伴您 365 個夜晚】智能觸控調光，防眩光小夜燈、無線快充一次到位！"
+        ],
+        "pvals": 0.009308209628532767,
+        "token": "設計"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/racemouse",
+          "https://www.zeczec.com/projects/inCharge6"
+        ],
+        "peer_title": [
+          "【 RaceMouse｜三合一迷你智慧滑鼠 】迷你滑鼠 / 觸控板 / 簡報筆的功能大集合，行動辦公的最佳解法！",
+          " inCharge 6 ｜世界最小的軍規級六合一傳輸線"
+        ],
+        "pvals": 0.02597251702470363,
+        "token": "支援"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/tracpoint",
+          "https://www.zeczec.com/projects/racemouse"
+        ],
+        "peer_title": [
+          "【 TRACPOINT 】全球首創！實體+虛擬 二合一滑鼠簡報筆，滿足工作、會議與教學的所有應用！",
+          "【 RaceMouse｜三合一迷你智慧滑鼠 】迷你滑鼠 / 觸控板 / 簡報筆的功能大集合，行動辦公的最佳解法！"
+        ],
+        "pvals": 0.04292328622300243,
+        "token": "便攜"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/airloop",
+          "https://www.zeczec.com/projects/BFRiEND"
+        ],
+        "peer_title": [
+          "AirLoop｜全球首創！三合一磁吸式秒轉耳機！",
+          "B.FRiEND 玫瑰粉鋁合金鍵盤｜無與倫比的美與手感"
+        ],
+        "pvals": 0.043305462919153354,
+        "token": "場合"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/BFRiEND",
+          "https://www.zeczec.com/projects/iRocksK89M"
+        ],
+        "peer_title": [
+          "B.FRiEND 玫瑰粉鋁合金鍵盤｜無與倫比的美與手感",
+          "【 iRocks | 可分離式人體工學機械鍵盤】解放雙手自由的舒適鍵盤，電腦使用者福音"
+        ],
+        "pvals": 0.0645926869825396,
+        "token": "鍵盤"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/racemouse",
+          "https://www.zeczec.com/projects/ieconano"
+        ],
+        "peer_title": [
+          "【 RaceMouse｜三合一迷你智慧滑鼠 】迷你滑鼠 / 觸控板 / 簡報筆的功能大集合，行動辦公的最佳解法！",
+          "全球首賣 | 好清潔可換裝無線靜音滑鼠 | 後疫情時代滑鼠清潔超重要 | 早鳥優惠預購中 ！"
+        ],
+        "pvals": 0.07260070523434771,
+        "token": "想像"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/BFRiEND",
+          "https://www.zeczec.com/projects/iRocksK89M"
+        ],
+        "peer_title": [
+          "B.FRiEND 玫瑰粉鋁合金鍵盤｜無與倫比的美與手感",
+          "【 iRocks | 可分離式人體工學機械鍵盤】解放雙手自由的舒適鍵盤，電腦使用者福音"
+        ],
+        "pvals": 0.09650819671847734,
+        "token": "全新"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/racemouse",
+          "https://www.zeczec.com/projects/mad-gaze-watch"
+        ],
+        "peer_title": [
+          "【 RaceMouse｜三合一迷你智慧滑鼠 】迷你滑鼠 / 觸控板 / 簡報筆的功能大集合，行動辦公的最佳解法！",
+          "MAD Gaze Watch｜全球首創骨傳導智慧手錶，延伸錶面開拓你的想像邊界"
+        ],
+        "pvals": 0.1136099814067608,
+        "token": "簡單"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/tracpoint",
+          "https://www.zeczec.com/projects/racemouse"
+        ],
+        "peer_title": [
+          "【 TRACPOINT 】全球首創！實體+虛擬 二合一滑鼠簡報筆，滿足工作、會議與教學的所有應用！",
+          "【 RaceMouse｜三合一迷你智慧滑鼠 】迷你滑鼠 / 觸控板 / 簡報筆的功能大集合，行動辦公的最佳解法！"
+        ],
+        "pvals": 0.1701614263922565,
+        "token": "輕巧"
+      },
+      {
+        "df": 3,
+        "peer_link": [
+          "https://www.zeczec.com/projects/racemouse",
+          "https://www.zeczec.com/projects/delux-m629",
+          "https://www.zeczec.com/projects/BFRiEND"
+        ],
+        "peer_title": [
+          "【 RaceMouse｜三合一迷你智慧滑鼠 】迷你滑鼠 / 觸控板 / 簡報筆的功能大集合，行動辦公的最佳解法！",
+          "DELUX M629 電競滑鼠｜創新可拆卸自定義手托，不管辦公還是玩遊戲、大手或小手，各種場合都能夠適用",
+          "B.FRiEND 玫瑰粉鋁合金鍵盤｜無與倫比的美與手感"
+        ],
+        "pvals": 0.2340969532060942,
+        "token": "辦公"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/obsbot-tiny-ai",
+          "https://www.zeczec.com/projects/mad-gaze-watch"
+        ],
+        "peer_title": [
+          "【 OBSBOT Tiny 】走到哪拍到哪，你的第一台內建AI機器學習的網路攝影機",
+          "MAD Gaze Watch｜全球首創骨傳導智慧手錶，延伸錶面開拓你的想像邊界"
+        ],
+        "pvals": 0.24247614442912424,
+        "token": "手勢"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/tracpoint",
+          "https://www.zeczec.com/projects/obsbot-tiny-ai"
+        ],
+        "peer_title": [
+          "【 TRACPOINT 】全球首創！實體+虛擬 二合一滑鼠簡報筆，滿足工作、會議與教學的所有應用！",
+          "【 OBSBOT Tiny 】走到哪拍到哪，你的第一台內建AI機器學習的網路攝影機"
+        ],
+        "pvals": 0.3114291243487506,
+        "token": "會議"
+      },
+      {
+        "df": 3,
+        "peer_link": [
+          "https://www.zeczec.com/projects/tracpoint",
+          "https://www.zeczec.com/projects/m618db",
+          "https://www.zeczec.com/projects/delux-m629"
+        ],
+        "peer_title": [
+          "【 TRACPOINT 】全球首創！實體+虛擬 二合一滑鼠簡報筆，滿足工作、會議與教學的所有應用！",
+          "DELUX M618DB 垂直護腕光學滑鼠 | 擺脫滑鼠手 | 有效緩解肌肉疲勞",
+          "DELUX M629 電競滑鼠｜創新可拆卸自定義手托，不管辦公還是玩遊戲、大手或小手，各種場合都能夠適用"
+        ],
+        "pvals": 0.3372720114852358,
+        "token": "符合"
+      },
+      {
+        "df": 3,
+        "peer_link": [
+          "https://www.zeczec.com/projects/inCharge6",
+          "https://www.zeczec.com/projects/airloop",
+          "https://www.zeczec.com/projects/delux-m629"
+        ],
+        "peer_title": [
+          " inCharge 6 ｜世界最小的軍規級六合一傳輸線",
+          "AirLoop｜全球首創！三合一磁吸式秒轉耳機！",
+          "DELUX M629 電競滑鼠｜創新可拆卸自定義手托，不管辦公還是玩遊戲、大手或小手，各種場合都能夠適用"
+        ],
+        "pvals": 0.49546838424723105,
+        "token": "組合"
+      },
+      {
+        "df": 3,
+        "peer_link": [
+          "https://www.zeczec.com/projects/m618db",
+          "https://www.zeczec.com/projects/inCharge6",
+          "https://www.zeczec.com/projects/airloop"
+        ],
+        "peer_title": [
+          "DELUX M618DB 垂直護腕光學滑鼠 | 擺脫滑鼠手 | 有效緩解肌肉疲勞",
+          " inCharge 6 ｜世界最小的軍規級六合一傳輸線",
+          "AirLoop｜全球首創！三合一磁吸式秒轉耳機！"
+        ],
+        "pvals": 0.5177720731528104,
+        "token": "不再"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/FreeMouse",
+          "https://www.zeczec.com/projects/tau"
+        ],
+        "peer_title": [
+          "《自由形態滑鼠FreeMouse》：三種滑鼠一次滿足，將自由的精神應用在滑鼠上。",
+          "【 瑞士｜TAU 】 世界最小的三合一磁吸式鑰匙圈行動電源"
+        ],
+        "pvals": 0.519869581164632,
+        "token": "隨時"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/sleephere",
+          "https://www.zeczec.com/projects/eclipse"
+        ],
+        "peer_title": [
+          "Sleep Here露營枕 | 露營也可以超好眠",
+          "【ECLIPSE｜無線快充小夜燈｜溫馨陪伴您 365 個夜晚】智能觸控調光，防眩光小夜燈、無線快充一次到位！"
+        ],
+        "pvals": 0.5309787242242108,
+        "token": "從此"
+      },
+      {
+        "df": 3,
+        "peer_link": [
+          "https://www.zeczec.com/projects/m618db",
+          "https://www.zeczec.com/projects/delux-m629",
+          "https://www.zeczec.com/projects/iRocksK89M"
+        ],
+        "peer_title": [
+          "DELUX M618DB 垂直護腕光學滑鼠 | 擺脫滑鼠手 | 有效緩解肌肉疲勞",
+          "DELUX M629 電競滑鼠｜創新可拆卸自定義手托，不管辦公還是玩遊戲、大手或小手，各種場合都能夠適用",
+          "【 iRocks | 可分離式人體工學機械鍵盤】解放雙手自由的舒適鍵盤，電腦使用者福音"
+        ],
+        "pvals": 0.6274673618840405,
+        "token": "人體工學"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/FreeMouse",
+          "https://www.zeczec.com/projects/iRocksK89M"
+        ],
+        "peer_title": [
+          "《自由形態滑鼠FreeMouse》：三種滑鼠一次滿足，將自由的精神應用在滑鼠上。",
+          "【 iRocks | 可分離式人體工學機械鍵盤】解放雙手自由的舒適鍵盤，電腦使用者福音"
+        ],
+        "pvals": 0.7149832765353233,
+        "token": "自由"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/racemouse",
+          "https://www.zeczec.com/projects/eclipse"
+        ],
+        "peer_title": [
+          "【 RaceMouse｜三合一迷你智慧滑鼠 】迷你滑鼠 / 觸控板 / 簡報筆的功能大集合，行動辦公的最佳解法！",
+          "【ECLIPSE｜無線快充小夜燈｜溫馨陪伴您 365 個夜晚】智能觸控調光，防眩光小夜燈、無線快充一次到位！"
+        ],
+        "pvals": 0.7526186948674648,
+        "token": "快充"
+      }
+    ],
+    "title": [
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/tracpoint",
+          "https://www.zeczec.com/projects/FreeMouse"
+        ],
+        "peer_title": [
+          "【 TRACPOINT 】全球首創！實體+虛擬 二合一滑鼠簡報筆，滿足工作、會議與教學的所有應用！",
+          "《自由形態滑鼠FreeMouse》：三種滑鼠一次滿足，將自由的精神應用在滑鼠上。"
+        ],
+        "pvals": 0.054121423653166426,
+        "token": "滿足"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/inCharge6",
+          "https://www.zeczec.com/projects/tau"
+        ],
+        "peer_title": [
+          " inCharge 6 ｜世界最小的軍規級六合一傳輸線",
+          "【 瑞士｜TAU 】 世界最小的三合一磁吸式鑰匙圈行動電源"
+        ],
+        "pvals": 0.07394352223668557,
+        "token": "世界"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/BFRiEND",
+          "https://www.zeczec.com/projects/iRocksK89M"
+        ],
+        "peer_title": [
+          "B.FRiEND 玫瑰粉鋁合金鍵盤｜無與倫比的美與手感",
+          "【 iRocks | 可分離式人體工學機械鍵盤】解放雙手自由的舒適鍵盤，電腦使用者福音"
+        ],
+        "pvals": 0.0795625251092186,
+        "token": "鍵盤"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/racemouse",
+          "https://www.zeczec.com/projects/mad-gaze-watch"
+        ],
+        "peer_title": [
+          "【 RaceMouse｜三合一迷你智慧滑鼠 】迷你滑鼠 / 觸控板 / 簡報筆的功能大集合，行動辦公的最佳解法！",
+          "MAD Gaze Watch｜全球首創骨傳導智慧手錶，延伸錶面開拓你的想像邊界"
+        ],
+        "pvals": 0.20697713684756258,
+        "token": "智慧"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/FreeMouse",
+          "https://www.zeczec.com/projects/iRocksK89M"
+        ],
+        "peer_title": [
+          "《自由形態滑鼠FreeMouse》：三種滑鼠一次滿足，將自由的精神應用在滑鼠上。",
+          "【 iRocks | 可分離式人體工學機械鍵盤】解放雙手自由的舒適鍵盤，電腦使用者福音"
+        ],
+        "pvals": 0.407782853358983,
+        "token": "自由"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/m618db",
+          "https://www.zeczec.com/projects/delux-m629"
+        ],
+        "peer_title": [
+          "DELUX M618DB 垂直護腕光學滑鼠 | 擺脫滑鼠手 | 有效緩解肌肉疲勞",
+          "DELUX M629 電競滑鼠｜創新可拆卸自定義手托，不管辦公還是玩遊戲、大手或小手，各種場合都能夠適用"
+        ],
+        "pvals": 0.4085315319019185,
+        "token": "delux"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/mad-gaze-watch",
+          "https://www.zeczec.com/projects/archivian-no-231-001"
+        ],
+        "peer_title": [
+          "MAD Gaze Watch｜全球首創骨傳導智慧手錶，延伸錶面開拓你的想像邊界",
+          "ARCHIVIAN - No.231-001 - 全藍寶石立體弧面玻璃錶面腕錶"
+        ],
+        "pvals": 0.4085315319019185,
+        "token": "錶面"
+      },
+      {
+        "df": 4,
+        "peer_link": [
+          "https://www.zeczec.com/projects/tracpoint",
+          "https://www.zeczec.com/projects/airloop",
+          "https://www.zeczec.com/projects/ieconano",
+          "https://www.zeczec.com/projects/mad-gaze-watch"
+        ],
+        "peer_title": [
+          "【 TRACPOINT 】全球首創！實體+虛擬 二合一滑鼠簡報筆，滿足工作、會議與教學的所有應用！",
+          "AirLoop｜全球首創！三合一磁吸式秒轉耳機！",
+          "全球首賣 | 好清潔可換裝無線靜音滑鼠 | 後疫情時代滑鼠清潔超重要 | 早鳥優惠預購中 ！",
+          "MAD Gaze Watch｜全球首創骨傳導智慧手錶，延伸錶面開拓你的想像邊界"
+        ],
+        "pvals": 0.4302258266678748,
+        "token": "全球"
+      },
+      {
+        "df": 2,
+        "peer_link": [
+          "https://www.zeczec.com/projects/ieconano",
+          "https://www.zeczec.com/projects/eclipse"
+        ],
+        "peer_title": [
+          "全球首賣 | 好清潔可換裝無線靜音滑鼠 | 後疫情時代滑鼠清潔超重要 | 早鳥優惠預購中 ！",
+          "【ECLIPSE｜無線快充小夜燈｜溫馨陪伴您 365 個夜晚】智能觸控調光，防眩光小夜燈、無線快充一次到位！"
+        ],
+        "pvals": 0.5788808921594024,
+        "token": "無線"
+      }
+    ]
+  },
+  "score": 0.8644041419029236,
+  "success_rates_by_score": {
+    "items": [
+      {
+        "data": [
+          0,
+          0,
+          0,
+          0.011235955056179775,
+          0.039603960396039604,
+          0.08737864077669903,
+          0.23595505617977527,
+          0.45,
+          0.7478849407783418,
+          0.9754743174456271
+        ],
+        "name": "成功"
+      },
+      {
+        "data": [
+          1,
+          1,
+          1,
+          0.9887640449438202,
+          0.9603960396039604,
+          0.912621359223301,
+          0.7640449438202247,
+          0.55,
+          0.2521150592216582,
+          0.02452568255437293
+        ],
+        "name": "失敗"
+      }
+    ],
+    "labels": [
+      "0-10",
+      "10-20",
+      "20-30",
+      "30-40",
+      "40-50",
+      "50-60",
+      "60-70",
+      "70-80",
+      "80-90",
+      "90-100"
+    ]
+  }
+}
