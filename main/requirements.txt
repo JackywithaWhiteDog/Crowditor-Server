@@ -14,3 +14,4 @@ numpy
 pandas
 sklearn
 werkzeug
+xgboost
