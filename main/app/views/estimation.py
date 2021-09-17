@@ -14,6 +14,7 @@ This module contains the endpoint for the estimation.
 import pathlib
 import pickle
 
+from flask import abort
 from flask_apispec import marshal_with, doc, use_kwargs
 from flask_apispec.views import MethodResource
 from flask_restful import Resource
@@ -55,6 +56,10 @@ class EstimationAPI(MethodResource, Resource):
         with estimation in JSON body.
 
         """
+        cols = ['content', 'title', 'description', 'domain', 'type']
+        for col in cols:
+            if kwargs[col] == "":
+                abort(400)
         return {
             **success_rates_by_score,
             **get_estimation(kwargs)
