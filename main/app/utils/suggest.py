@@ -47,9 +47,9 @@ def get_similar_project(vector: dict):
         k: dataset_vectors[k] @ v.A.T
         for k, v in vector.items()
     }
-    dataset['cos'] = cos['content']
-    return dataset[dataset['cos'] >= THRESHOLD].sort_values(
-        'cos', ascending=False).index.to_numpy()[:20]
+    cos_list = cos['content'].tolist()
+    dataset['cos'] = [item for sublist in cos_list for item in sublist]
+    return dataset[dataset['cos'] >= THRESHOLD].sort_values('cos', ascending=False).index.to_numpy()[:20]
 
 def get_text_suggestion(sim_proj, tokens: dict) -> dict:
     """Generate text suggestion"""
